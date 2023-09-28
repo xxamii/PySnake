@@ -1,6 +1,6 @@
 # PySnake
 
-A snake game clone in Python, made with the Pygame module.
+A snake game clone, made with Python and the Pygame module.
 
 # How to Use It
 
