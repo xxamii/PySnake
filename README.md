@@ -9,6 +9,7 @@ A snake game clone, made with Python and the Pygame module.
 - Open a command line console and move into the repository.
 - Run "pip install -r requirements.txt".
 - Run "python main.py"
+- Move on arrows
 
 # What I Learned
 
