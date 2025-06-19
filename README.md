@@ -1,6 +1,6 @@
 # PySnake
 
-A snake game clone, made with Python and the Pygame module.
+A snake game clone made with Python and the Pygame module.
 
 # How to Use It
 
@@ -9,7 +9,7 @@ A snake game clone, made with Python and the Pygame module.
 - Open a command line console and move into the repository.
 - Run "pip install -r requirements.txt".
 - Run "python main.py"
-- Move on arrows
+- Move up/down/left/right with arrows
 
 # What I Learned
 
